@@ -13,7 +13,8 @@ git commit -m "02-discovery-for-ai-engagements: build discovery canvas and recom
 git push
 
 # Results
-creation of a discover canvas 
+[text](../discovery-canvas.md)
+
 
 # Observations
-extracting wording from documents and conversations requires a good understanding of the product
+I wanted to treat; Questions like this come up "several" times a day. The volume hasn't been counted. (HF-INT-01, Priya) as truth but couldnt as i have no true statistics.
